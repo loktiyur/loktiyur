@@ -19,12 +19,13 @@ I build asynchronous Python microservices with **gRPC**, **Protobuf** and **Rabb
 | **Cloud & DevOps** | Docker · Kubernetes · GCP · Terraform · Jenkins · Git |
 | **Testing** | pytest · JUnit · mocking · Poetry |
 
-### 📌 Featured projects
+### 📈 GitHub overview
 
-<p>
-  <a href="https://github.com/loktiyur/ExpenseTracker"><img src="assets/pin-ExpenseTracker.svg" alt="ExpenseTracker" height="120"></a>
-  <a href="https://github.com/loktiyur/time-management-algorithms"><img src="assets/pin-time-management-algorithms.svg" alt="time-management-algorithms" height="120"></a>
+<p align="center">
+  <img src="assets/metrics.svg" alt="GitHub metrics: languages and featured repositories" width="480">
 </p>
+
+### 📌 Featured projects
 
 - **Expense Tracker**: a Java/JavaFX desktop app for tracking and charting expenses. It has a layered architecture, JUnit tests for every service and a Jenkins CI/CD pipeline.
 - **Task Scheduling Algorithms**: a C++ comparison of 0/1 Knapsack dynamic programming against a greedy heuristic, benchmarked for speed and solution quality.
@@ -43,12 +44,3 @@ I build asynchronous Python microservices with **gRPC**, **Protobuf** and **Rabb
 Also: [Bank Transactions SQL](https://github.com/loktiyur/Bank-Transactions-SQL) · [ARIMA model](https://github.com/loktiyur/Arima-model) · [Cohort analysis](https://github.com/loktiyur/Cohort-analysis) · [Online store analysis](https://github.com/loktiyur/online-store-analysis) · [Gamedev analysis](https://github.com/loktiyur/Gamedev-analysis)
 
 </details>
-
-### 📈 GitHub stats
-
-<p>
-  <img src="assets/stats.svg" alt="GitHub stats" height="165">
-  <img src="assets/top-langs.svg" alt="Top languages" height="165">
-</p>
-
-<sub>Cards generated with <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>.</sub>
